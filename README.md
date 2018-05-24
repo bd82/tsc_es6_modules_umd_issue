@@ -1,0 +1,1 @@
+# tsc_es6_modules_umd_issue
